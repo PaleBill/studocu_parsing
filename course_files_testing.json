@@ -1,0 +1,117 @@
+[
+    {
+        "course_name": "AgroekologieAAA22E",
+        "sections": [
+            {
+                "section": "Lecture notes",
+                "files": [
+                    {
+                        "name": "Ot\u00e1zky ke zkou\u0161ce - agroekologie",
+                        "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/agroekologie/otazky-ke-zkousce-agroekologie/21501516",
+                        "year": "2013/2014"
+                    }
+                ]
+            },
+            {
+                "section": "Practice materials",
+                "files": [
+                    {
+                        "name": "Agroekologie-Zkou\u0161ka",
+                        "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/agroekologie/agroekologie-zkouska/13962152",
+                        "year": "2019/2020"
+                    },
+                    {
+                        "name": "Agroekologie-testove otazky",
+                        "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/agroekologie/agroekologie-testove-otazky/41060291",
+                        "year": "2022/2023"
+                    }
+                ]
+            },
+            {
+                "section": "Mandatory assignments",
+                "files": [
+                    {
+                        "name": "P\u016fsoben\u00ed slune\u010dn\u00edho z\u00e1\u0159en\u00ed na ekosyst\u00e9m",
+                        "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/agroekologie/pusobeni-slunecniho-zareni-na-ekosystem/6841692",
+                        "year": "2019/2020"
+                    }
+                ]
+            },
+            {
+                "section": "Summaries",
+                "files": [
+                    {
+                        "name": "Agroekologie otazky barev",
+                        "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/agroekologie/agroekologie-otazky-barev/4249516",
+                        "year": "18/19"
+                    }
+                ]
+            },
+            {
+                "section": "Other",
+                "files": [
+                    {
+                        "name": "Pohanka obecn\u00e1",
+                        "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/agroekologie/pohanka-obecna/6923673",
+                        "year": "2019/2020"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Algorithm Development1718ZS/ETEA1E",
+        "sections": [
+            {
+                "section": "Lecture notes",
+                "files": [
+                    {
+                        "name": "Algoritmy zakladni konstrukce v priklade",
+                        "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/algorithm-development/algoritmy-zakladni-konstrukce-v-priklade/72442707",
+                        "year": "2023/2024"
+                    }
+                ]
+            },
+            {
+                "section": "Practical",
+                "files": [
+                    {
+                        "name": "Testy-  z\u00e1po\u010det (cvicebni)",
+                        "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/algorithm-development/testy-zapocet-cvicebni/3633439",
+                        "year": "2018/2019"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Anal\u00fdza vzd\u011bl\u00e1vac\u00edch obsah\u016f IIVCV88E",
+        "sections": [
+            {
+                "section": "Other",
+                "files": [
+                    {
+                        "name": "Vypracovan\u00e9 ot\u00e1zky Ekonomika ve\u0159ejn\u00e9 spr\u00e1vy",
+                        "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/analyza-vzdelavacich-obsahu-ii/vypracovane-otazky-ekonomika-verejne-spravy/23004113",
+                        "year": "2022/2023"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Angli\u010dtina A1 KSELZPAA1",
+        "sections": [
+            {
+                "section": "Practical",
+                "files": [
+                    {
+                        "name": "U\u010debnice Lifestyle, Elementery Coursebook",
+                        "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/anglictina-a1-ks/ucebnice-lifestyle-elementery-coursebook/25534714",
+                        "year": "2021/2022"
+                    }
+                ]
+            }
+        ]
+    }
+][]

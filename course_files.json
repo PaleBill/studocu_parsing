@@ -1,0 +1,487 @@
+[
+    {
+        "section": "Lecture notes",
+        "files": [
+            {
+                "name": "Projekt Zem\u011bd\u011blsk\u00e9 syst\u00e9my I",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/projekt-zemedelske-systemy-i/7816896",
+                "year": "2020/2021"
+            },
+            {
+                "name": "ZS I - ot\u00e1zky - p\u0159\u00edprava ke zkou\u0161ce ze ZS i",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zs-i-otazky-priprava-ke-zkousce-ze-zs-i/7816902",
+                "year": "2020/2021"
+            },
+            {
+                "name": "Zpracovan\u00ed p\u016fdy - p\u0159\u00edprava ke zkou\u0161ce ze ZS i",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zpracovani-pudy-priprava-ke-zkousce-ze-zs-i/7816901",
+                "year": "2020/2021"
+            },
+            {
+                "name": "Zpracov\u00e1n\u00ed p\u016fdy - Notes from lecture",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zpracovani-pudy-notes-from-lecture/74969465",
+                "year": "2023/2024"
+            },
+            {
+                "name": "IFE zkou\u0161kov\u00e9 ot\u00e1zky",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/ife-zkouskove-otazky/59511280",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Zemedelske-systemy-ii 2",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-ii-2/59511232",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Psychologie-vypisky-ze-skript 1",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/psychologie-vypisky-ze-skript-1/59511191",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Psychologie-vypisky-ze-skript 1-3",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/psychologie-vypisky-ze-skript-1-3/59511190",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Vypracovane otazky z psychologie epe07e t02e a01e 1",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/vypracovane-otazky-z-psychologie-epe07e-t02e-a01e-1/59511187",
+                "year": "hidden"
+            },
+            {
+                "name": "Psycho - Zkous\u030cKA - v\u011bci k p\u0159edm\u011btu",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/psycho-zkouska-veci-k-predmetu/59511184",
+                "year": "hidden"
+            },
+            {
+                "name": "Zkouska u brabce test pisemna cast",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zkouska-u-brabce-test-pisemna-cast/59511102",
+                "year": "hidden"
+            },
+            {
+                "name": "ZEM zkou\u0161ka ot\u00e1zky - v\u011bci k p\u0159edm\u011btu",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zem-zkouska-otazky-veci-k-predmetu/59511078",
+                "year": "hidden"
+            },
+            {
+                "name": "Zem\u011bd\u011blsk\u00e9 syst\u00e9my zkou\u0161ka ot\u00e1zky",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-zkouska-otazky/59511062",
+                "year": "hidden"
+            },
+            {
+                "name": "Vypisky z prednasek 1 12",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/vypisky-z-prednasek-1-12/49437426",
+                "year": "hidden"
+            },
+            {
+                "name": "Zem\u011bd\u011blsk\u00e9 syst\u00e9my ke zkou\u0161ce",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-ke-zkousce/49437260",
+                "year": "hidden"
+            },
+            {
+                "name": "Pozn\u00e1mky z cvi\u010den\u00ed",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/poznamky-z-cviceni/49437256",
+                "year": "hidden"
+            },
+            {
+                "name": "Olejniny - Holec",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/olejniny-holec/43590850",
+                "year": "hidden"
+            },
+            {
+                "name": "Okopaniny - Holec",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/okopaniny-holec/43590793",
+                "year": "hidden"
+            },
+            {
+                "name": "Osevn\u00ed postupy a st\u0159\u00edd\u00e1n\u00ed plodin",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/osevni-postupy-a-stridani-plodin/43586037",
+                "year": "hidden"
+            },
+            {
+                "name": "Zemedelske systemy i vypisky z prednasek",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-i-vypisky-z-prednasek/43166122",
+                "year": "hidden"
+            },
+            {
+                "name": "Vypsan\u00e9-ot\u00e1zky-1 - Zem\u011bd\u011blsk\u00e9 syst\u00e9my ot\u00e1zky 1. \u010d\u00e1st",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/vypsane-otazky-1-zemedelske-systemy-otazky-1-cast/35876593",
+                "year": "hidden"
+            },
+            {
+                "name": "Vypsan\u00e9-ot\u00e1zky-2 - Zem\u011bd\u011blsk\u00e9 syst\u00e9my ot\u00e1zky 2. \u010d\u00e1st",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/vypsane-otazky-2-zemedelske-systemy-otazky-2-cast/35876591",
+                "year": "hidden"
+            }
+        ]
+    },
+    {
+        "section": "Practice materials",
+        "files": [
+            {
+                "name": "ZS projekt S M - Cel\u00e1 semestralka z ZS 1\n\u010c\u00e1st s kuku\u0159ic\u00ed a makem upravte, jinak je to vid\u011bt",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zs-projekt-s-m-cela-semestralka-z-zs-1cast-s-kukurici-a-makem-upravte-jinak-je-to-videt/60389334",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Text \u010d\u00edslo 8 - v\u011bci k p\u0159edm\u011btu",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/text-cislo-8-veci-k-predmetu/59511111",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Zem\u011bd\u011blsk\u00e9 syst\u00e9my skripta",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-skripta/56923497",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Otazky ke zkousce ze zemedelskych systemu i",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/otazky-ke-zkousce-ze-zemedelskych-systemu-i/44124928",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Zem\u011bd\u011blsk\u00e9 syst\u00e9my I otazky zk",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-i-otazky-zk/43944581",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Semestralni prace - semestr\u00e1ln\u00ed pr\u00e1ce",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/semestralni-prace-semestralni-prace/43453007",
+                "year": "2021/2022"
+            },
+            {
+                "name": "Syllabus 1.Pa E 2014 - qwe",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/syllabus-1pa-e-2014-qwe/43365683",
+                "year": "2016/2017"
+            },
+            {
+                "name": "ZEM\u011aD\u011aLSK\u00c9 Syst\u00e9my CVI\u010cEN\u00cd 5",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-cviceni-5/42427708",
+                "year": "2021/2022"
+            },
+            {
+                "name": "ZEM\u011aD\u011aLSK\u00c9 Syst\u00e9my CVI\u010cEN\u00cd 4",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-cviceni-4/42427703",
+                "year": "hidden"
+            },
+            {
+                "name": "ZEM\u011aD\u011aLSK\u00c9 Syst\u00e9my CVI\u010cEN\u00cd 1",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-cviceni-1/42427667",
+                "year": "hidden"
+            },
+            {
+                "name": "ZEM\u011aD\u011aLSK\u00c9 Syst\u00e9my CVI\u010cEN\u00cd 2",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-cviceni-2/42427665",
+                "year": "hidden"
+            },
+            {
+                "name": "ZEM\u011aD\u011aLSK\u00c9 Syst\u00e9my CVI\u010cEN\u00cd 3",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-cviceni-3/42427663",
+                "year": "hidden"
+            },
+            {
+                "name": "Zem\u011bdelsk\u00e9 syst\u00e9my I - Ot\u00e1zky ke zkou\u0161ce",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-i-otazky-ke-zkousce/42143720",
+                "year": "hidden"
+            },
+            {
+                "name": "Zapoctove-otazky - ot\u00e1zky, kter\u00e9 se objev\u00ed v z\u00e1po\u010dtov\u00e9m testu ze Zem\u011bd\u011blsk\u00fdch syst\u00e9m\u016f",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zapoctove-otazky-otazky-ktere-se-objevi-v-zapoctovem-testu-ze-zemedelskych-systemu/42143713",
+                "year": "hidden"
+            },
+            {
+                "name": "Ot\u00e1zky ZS - ot\u00e1zky pro zkou\u0161ku",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/otazky-zs-otazky-pro-zkousku/38138751",
+                "year": "hidden"
+            },
+            {
+                "name": "Na\u0301klady a vy\u0301nosy rostlinny\u0301ch vyrobku\u030a (3",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/naklady-a-vynosy-rostlinnych-vyrobku-3/35438031",
+                "year": "hidden"
+            },
+            {
+                "name": "Exam 1 January Winter 2020, questions and answers",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/exam-1-january-winter-2020-questions-and-answers/11126370",
+                "year": "hidden"
+            },
+            {
+                "name": "Exam 1 January Winter 2020, questions",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/exam-1-january-winter-2020-questions/11126366",
+                "year": "hidden"
+            },
+            {
+                "name": "Materi\u00e1l ke zkou\u0161ce ZS I",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/material-ke-zkousce-zs-i/8116514",
+                "year": "hidden"
+            },
+            {
+                "name": "Test 2017, questions and answers",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/test-2017-questions-and-answers/2832364",
+                "year": "hidden"
+            },
+            {
+                "name": "Exam 2017, questions and answers",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/exam-2017-questions-and-answers/2832278",
+                "year": "hidden"
+            },
+            {
+                "name": "Semestr\u00e1ln\u00ed projekt - syst\u00e9my zem\u011bd\u011blsk\u00e9",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/semestralni-projekt-systemy-zemedelske/39287177",
+                "year": "hidden"
+            }
+        ]
+    },
+    {
+        "section": "Practical",
+        "files": [
+            {
+                "name": "Zemedelske Systemy Vypisky",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-vypisky/7816898",
+                "year": "2020/2021"
+            },
+            {
+                "name": "Agrotechnick\u00e9 lh\u016fty",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/agrotechnicke-lhuty/11126371",
+                "year": "2020/2021"
+            },
+            {
+                "name": "Semestr\u00e1ln\u00ed pr\u00e1ce Zem\u011bd\u011blsk\u00e9 syst\u00e9my I",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/semestralni-prace-zemedelske-systemy-i/44280206",
+                "year": "2022/2023"
+            },
+            {
+                "name": "ZSI-zkouska - Na zkou\u0161ku sta\u010d\u00ed",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zsi-zkouska-na-zkousku-staci/43217062",
+                "year": "2020/2021"
+            },
+            {
+                "name": "Zem\u011bd\u011blsk\u00fd syst\u00e9my",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelsky-systemy/43176134",
+                "year": "2023/2024"
+            },
+            {
+                "name": "Ot\u00e1zky a odpov\u011bdi z testu v Moodlu",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/otazky-a-odpovedi-z-testu-v-moodlu/39527580",
+                "year": "2021/2022"
+            },
+            {
+                "name": "Pr\u030ciklad Semistralni\u0301 pra\u0301ci",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/priklad-semistralni-praci/35438093",
+                "year": "2021/2022"
+            },
+            {
+                "name": "Test 1",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/test-1/11787686",
+                "year": "2020/2021"
+            },
+            {
+                "name": "Test 2",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/test-2/11787685",
+                "year": "hidden"
+            },
+            {
+                "name": "Test 4",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/test-4/11787684",
+                "year": "hidden"
+            },
+            {
+                "name": "Test 3",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/test-3/11787682",
+                "year": "hidden"
+            },
+            {
+                "name": "Test 5",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/test-5/11787680",
+                "year": "hidden"
+            },
+            {
+                "name": "Test 6",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/test-6/11787677",
+                "year": "hidden"
+            },
+            {
+                "name": "Test 7",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/test-7/11787675",
+                "year": "hidden"
+            },
+            {
+                "name": "Test 8",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/test-8/11787672",
+                "year": "hidden"
+            },
+            {
+                "name": "Seminarni-prace-brambory",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/seminarni-prace-brambory/10820261",
+                "year": "hidden"
+            }
+        ]
+    },
+    {
+        "section": "Summaries",
+        "files": [
+            {
+                "name": "ZSY-ot\u00e1zky-word - Zemsys 1 a 2",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zsy-otazky-word-zemsys-1-a-2/38342233",
+                "year": "2021/2022"
+            },
+            {
+                "name": "Volby a volebni systemy",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/volby-a-volebni-systemy/43166123",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Zemedelske systemy zkouskove otazky staci",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-zkouskove-otazky-staci/43166121",
+                "year": "2020/2021"
+            },
+            {
+                "name": "Komponenty-volebniho-systemu",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/komponenty-volebniho-systemu/43166118",
+                "year": "2021/2022"
+            },
+            {
+                "name": "Zad\u00e1n\u00ed projektu 2022 zemka",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zadani-projektu-2022-zemka/41184750",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Semestralni projekt zemedelske systemy i",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/semestralni-projekt-zemedelske-systemy-i/38177031",
+                "year": "2022/2023"
+            }
+        ]
+    },
+    {
+        "section": "Mandatory assignments",
+        "files": [
+            {
+                "name": "Semin\u00e1rka ZS - Semin\u00e1rn\u00ed z\u00e1po\u010dtov\u00e1 pr\u00e1ce na p\u0161enici ozimou a brambory",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/seminarka-zs-seminarni-zapoctova-prace-na-psenici-ozimou-a-brambory/73708268",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Semestra\u0301lni\u0301 projekt",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/semestralni-projekt/56500150",
+                "year": "2021/2022"
+            },
+            {
+                "name": "Zemedelske systemy i semestralni projekt",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-i-semestralni-projekt/43166139",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Zemedelske systemy projekt 2020",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-projekt-2020/43166138",
+                "year": "2020/2021"
+            },
+            {
+                "name": "Semestralni projekt zemedelske systemy i",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/semestralni-projekt-zemedelske-systemy-i/43166137",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Zkouska-zemedelske-systemy",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zkouska-zemedelske-systemy/43166120",
+                "year": "2020/2021"
+            },
+            {
+                "name": "Priklad zk - matematick\u00e9 metody pro statistiky",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/priklad-zk-matematicke-metody-pro-statistiky/43166119",
+                "year": "2021/2022"
+            },
+            {
+                "name": "Certifik\u00e1t zdravotn\u00ed kvality",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/certifikat-zdravotni-kvality/40234861",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Semestr\u00e1ln\u00ed projekt na zem\u011bd\u011blsk\u00e9 syst\u00e9my-M\u00e1k, Kuku\u0159ice",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/semestralni-projekt-na-zemedelske-systemy-mak-kukurice/21333358",
+                "year": "hidden"
+            }
+        ]
+    },
+    {
+        "section": "Tutorial work",
+        "files": [
+            {
+                "name": "Semestra\u0301lni\u0301 pra\u0301ce - Z\u00e1po\u010dtov\u00e1 pr\u00e1ce",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/semestralni-prace-zapoctova-prace/45158692",
+                "year": "2021/2022"
+            }
+        ]
+    },
+    {
+        "section": "Essays",
+        "files": [
+            {
+                "name": "Semest\u00e1ln\u00ed projekt zem\u011bd\u011blsk\u00e9 syst\u00e9my - \u0159epka ozim\u00e1, hr\u00e1ch",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/semestalni-projekt-zemedelske-systemy-repka-ozima-hrach/72401262",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Semest\u00e1ln\u00ed projekt zem\u011bd\u011blsk\u00e9 syst\u00e9my - \u0159epka ozim\u00e1, hr\u00e1ch",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/semestalni-projekt-zemedelske-systemy-repka-ozima-hrach/46376177",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Projekt ZS1 - \u00dasp\u011b\u0161n\u00fd z\u00e1po\u010det",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/projekt-zs1-uspesny-zapocet/43964664",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Zemedelske systemy i semestralni prace",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zemedelske-systemy-i-semestralni-prace/43681275",
+                "year": "2021/2022"
+            },
+            {
+                "name": "Semestr\u00e1ln\u00ed projekt ZS I",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/semestralni-projekt-zs-i/39527437",
+                "year": "2021/2022"
+            },
+            {
+                "name": "ZS Semestr\u00e1lka prim\u00e1t",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zs-semestralka-primat/38087910",
+                "year": "2021/2022"
+            },
+            {
+                "name": "ZS - Grade: pass",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zs-grade-pass/14688876",
+                "year": "2020/2021"
+            }
+        ]
+    },
+    {
+        "section": "Other",
+        "files": [
+            {
+                "name": "Semestr\u00ed\u00e1ln\u00edpr\u00e1ce zemedelsk\u00e9 syst\u00e9my \u00fakol na z\u00e1po\u010det",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/semestrialniprace-zemedelske-systemy-ukol-na-zapocet/21595867",
+                "year": "2021/2022"
+            },
+            {
+                "name": "Pracovn\u00ed listy - zem\u011bpis",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/pracovni-listy-zemepis/70393620",
+                "year": "2023/2024"
+            },
+            {
+                "name": "Final answers Agro - Test",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/final-answers-agro-test/43904365",
+                "year": "2022/2023"
+            },
+            {
+                "name": "Seznam osevni\u0301ch postupu\u030a (2",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/seznam-osevnich-postupu-2/35441661",
+                "year": "2021/2022"
+            },
+            {
+                "name": "ZS1- cv. 4. dodatek - Z\u00e1pisky ze 4. cv.",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/zs1-cv-4-dodatek-zapisky-ze-4-cv/12567006",
+                "year": "2020/2021"
+            },
+            {
+                "name": "project example, pae",
+                "link": "https://www.studocu.com/cs/document/ceska-zemedelska-univerzita-v-praze/zemedelske-systemy-i/project-example-pae/6682975",
+                "year": "2018/2019"
+            }
+        ]
+    }
+]
